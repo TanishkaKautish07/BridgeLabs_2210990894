@@ -27,3 +27,5 @@ TYPES OF VARIABLE ARE :
 2) INSTANCE : THEY AREACCESSED INSIDE THE CLASS ONLY ; Instance variables are created when an object is instantiated, and are accessible to all the constructors, methods, or blocks in the class.
 3) STATIC  : Static variables are accessed through the class they belong to, they are declared using the static keyword.
 1/07/2025
+first we revised everything we did in last class than we learned more about classes further we did a few programs on addiiton subtraction multiplication divion basically made a calculater than we did se learned about scanner class and did a fes codes on it.
+2/07/2025
