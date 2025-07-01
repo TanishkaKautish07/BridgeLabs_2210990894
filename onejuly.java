@@ -150,8 +150,8 @@ import java.util.Scanner;
 //    }
 //}
 //scanner class
-import java.util.Scanner;
-public class Myproject{
+
+public class onejuly{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
 //        String input =sc.nextLine();
