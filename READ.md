@@ -29,4 +29,6 @@ TYPES OF VARIABLE ARE :
 1/07/2025
 first we revised everything we did in last class than we learned more about classes further we did a few programs on addiiton subtraction multiplication divion basically made a calculater than we did se learned about scanner class and did a fes codes on it.
 2/07/2025
-we did revision of everything and than we did calculator with the help of scanner input takong everything as input, than we did double and float and long in it.
+we did revision of everything and than we did calculator with the help of scanner input takong everything as input, than we did double and float and long in it. than we did our first program in notepad++,comppiled the file than exectued it taking scanner input code.
+3/07/2025
+
