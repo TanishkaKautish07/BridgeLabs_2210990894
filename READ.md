@@ -31,4 +31,4 @@ first we revised everything we did in last class than we learned more about clas
 2/07/2025
 we did revision of everything and than we did calculator with the help of scanner input taking everything as input, than we did double and float and long in it. than we did our first program in notepad++,comppiled the file than exectued it taking scanner input code.
 3/07/2025
-we diid a quick revision of java syntax than we did a few codes on notepad++ like printing hello world.
+we diid a quick revision of java syntax than we did a few codes on notepad++ like printing hello world. Than we studied about variables ,than made a few programs on basic operators like +,-,/*,and than we did the other operations like shifting and stuff.
