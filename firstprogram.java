@@ -138,5 +138,66 @@
 // System.out.println("Number is not a three-digit number.");
 // }
 // }
-
 // }
+// 7/07/2025
+// switch case
+// import java.util.*;
+
+// public class firstprogram {
+// public static void main(String[] args) {
+// Scanner sc = new Scanner(System.in);
+// int x = sc.nextInt();
+// switch (x) {
+// case 1:
+// System.out.print(50000 * 30 / 100 + 50000);
+// break;
+// case 2:
+// System.out.print(40000 * 25 / 100 + 40000);
+// break;
+// case 3:
+// System.out.print(30000 * 20 / 100 + 30000);
+// break;
+// case 4:
+// System.out.print(20000 * 15 / 100 + 20000);
+// break;
+// }
+// }
+// }
+// 07-07-2025//
+
+// import java.util.Scanner;
+
+// public class firstprogram {
+//     public static void main(String[] args) {
+//         Scanner scanner = new Scanner(System.in);
+//         String color = scanner.nextLine().trim().toLowerCase();
+//         String message;
+
+//         switch (color) {
+//             case "red":
+//                 message = "STOP!";
+//                 break;
+//             case "yellow":
+//                 message = "GET READY!";
+//                 break;
+//             case "green":
+//                 message = "GO!";
+//                 break;
+//             default:
+//                 message = "Invalid color! Please enter Red, Yellow, or Green.";
+//         }
+//         System.out.println(message);
+//         scanner.close();
+//     }
+// }
+import java.util.*;
+
+public class firstprogram {
+    public static void main(String[] args) {
+        int n;
+        int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 };
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}
