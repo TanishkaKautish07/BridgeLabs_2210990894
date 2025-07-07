@@ -32,3 +32,13 @@ first we revised everything we did in last class than we learned more about clas
 we did revision of everything and than we did calculator with the help of scanner input taking everything as input, than we did double and float and long in it. than we did our first program in notepad++,comppiled the file than exectued it taking scanner input code.
 3/07/2025
 we diid a quick revision of java syntax than we did a few codes on notepad++ like printing hello world. Than we studied about variables ,than made a few programs on basic operators like +,-,/*,and than we did the other operations like shifting and stuff.
+4/07/2025
+we did revision than we did four questions  first we did the basic age question,tha prime number question,even odd question and than samedigit question.
+7/07/2025
+we did revision than we did a few questions on switch case,like two questions switching,traffic light,than we did arrays the basic explanation and descritipn ,yhan we did a question on arrays basically printing the address and the given values in arrays.
+
+
+
+
+
+
